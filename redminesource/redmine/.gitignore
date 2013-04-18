@@ -1,0 +1,10 @@
+target
+*.iml
+.idea
+
+/.settings/**
+/.classpath
+/.project
+/.settings
+/META-INF
+/build.properties

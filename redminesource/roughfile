@@ -1,0 +1,90 @@
+package com.hpm.report;
+
+import java.util.ArrayList;
+import java.util.List;
+import com.taskadapter.redmineapi.RedmineManager;
+import com.taskadapter.redmineapi.bean.TimeEntry;
+
+
+public class Simple {
+    private static String redmineHost = "https://smiles.happiestminds.com/";
+    private static String apiAccessKey = "ee9a3489a768a50486f6a4f5f1a8dfe129006a9b";
+   // private static String apiAccessKey = "25d402492e698bed856b023b2b3ec9ec8a39627f";
+    private static String projectKey = "taskconnector-test";
+    private static Integer queryId = null; // any
+
+    public static void main(String[] args) {
+        RedmineManager mgr = new RedmineManager(redmineHost, apiAccessKey);
+        try {
+           // tryGetIssues(mgr);
+        //System.out.println(mgr.getCurrentUser());
+      //  BufferedWriter out=null;
+        /*List<Tracker>  Trackers=new ArrayList<Tracker>();
+        Trackers=mgr.getProjectByKey("pearson-gto").getTrackers();
+        for(Tracker temp:Trackers)
+        {
+        	System.out.println("Tracker name is "+temp.getName());
+        }*/
+       
+       
+        
+        // System.err.println( "project id is"+mgr.getProjectByKey("pearson-gto"));
+        
+     /*      
+           List<Project> projects=new ArrayList<>();
+          List<Tracker> Trackers=new ArrayList<>();
+           projects= mgr.getProjects();
+           for(Project temp:projects)
+           {
+        	   Trackers=temp.getTrackers();
+        	  // System.out.println(Trackers.size()+"Size is ");
+        	   for(Tracker temp2:Trackers)
+               {
+               	System.out.println(temp2.getName());
+               }
+        	  
+           }*/
+     //  System.out.println("Issues Tracking "+mgr.getIssueById(30602, INCLUDE.relations));
+         
+        
+         
+         List<TimeEntry> TimeEntryList=new ArrayList<>();
+       //  out = new BufferedWriter(new FileWriter("Pearson_08-04.txt"));
+       /*  TimeEntry tm=new TimeEntry();
+         tm=mgr.getTimeEntry(503);
+         mgr.getT*/
+        TimeEntryList=mgr.getTimeEntriesForIssue(30601);
+        for(TimeEntry temp3:TimeEntryList)
+        {
+        	System.out.println("spent date is "+temp3.getSpentOn());
+        	System.out.println("comment is "+temp3.getComment());
+        
+        	
+        }
+        
+        /*TimeEntryList=mgr.getTimeEntries();
+        
+         System.out.println(TimeEntryList.size()+"size is ");
+         out.append((CharSequence) TimeEntryList);
+     
+         */
+         
+        /* for(TimeEntry temp3:TimeEntryList)
+         {
+         	System.out.println("Comment name is "+temp3.getComment());
+         	out.append(temp3.getComment());
+         }
+         out.flush();
+           */
+        } catch (Exception  e) {
+            e.printStackTrace();
+        }
+    }
+
+    /*private static void tryGetIssues(RedmineManager mgr) throws Exception {
+        List<Issue> issues = mgr.getIssues(projectKey, queryId);
+        for (Issue issue : issues) {
+            System.out.println(issue.toString());
+        }
+    }*/
+}
