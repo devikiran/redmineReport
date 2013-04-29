@@ -1,0 +1,32 @@
+<TeamMembers>
+	<Host>https://smiles.happiestminds.com/</Host>
+	<AdminAPIAccessKey>b0ccff4fc0c8b416e4bbae151985a6b2da457586</AdminAPIAccessKey> <!-- Aravind's Key -->
+	<TeamMember>
+		<Project>
+			<ProjectName>GTO - Sitescope Replacement</ProjectName>
+			<TeamMemberName>DeviKiran Setty</TeamMemberName>
+			<ManagerName>Joe Liner</ManagerName>
+			<PO>34155132</PO>
+			<ProjectCode>71105047</ProjectCode>
+			<TaskCode>1.24</TaskCode>
+			<CostCenter>79964</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>30601,35404</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>GTO - Sitescope Replacement</ProjectName>
+			<TeamMemberName>Chandan</TeamMemberName>
+			<ManagerName>Joe Liner</ManagerName>
+			<PO>34155132</PO>
+			<ProjectCode>71105047</ProjectCode>
+			<TaskCode>1.24</TaskCode>
+			<CostCenter>79964</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>30602</IssueIds>
+		</RedMine>
+	</TeamMember>	
+</TeamMembers>

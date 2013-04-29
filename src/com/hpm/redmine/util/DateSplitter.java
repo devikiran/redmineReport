@@ -9,11 +9,11 @@ import com.hpm.redmione.report.Day;
 
 public class DateSplitter {
 
-/*	public static void main(String[] args) {
+	/*	public static void main(String[] args) {
 
 		String string = "Sun Apr 28 00:00:00 IST 2013";
 
-		convertToDate(string);
+		getDisplayDate(string);
 
 	}
 
@@ -57,7 +57,7 @@ public class DateSplitter {
 		SimpleDateFormat FORMATTER;
 
 		FORMATTER = new SimpleDateFormat("dd-MM-yyyy");
-
+		//Date d=new Date("31-03-2013")
 		return FORMATTER.format(date);
 	}
 }
