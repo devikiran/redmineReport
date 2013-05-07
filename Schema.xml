@@ -1,9 +1,81 @@
 <TeamMembers>
 	<Host>https://smiles.happiestminds.com/</Host>
 	<AdminAPIAccessKey>b0ccff4fc0c8b416e4bbae151985a6b2da457586</AdminAPIAccessKey> <!-- Aravind's Key -->
+		<TeamMember>
+			<Project>
+			<ProjectName>EA</ProjectName>
+			<TeamMemberName>Srinivasa Harirao</TeamMemberName>
+			<ManagerName>Madhumita Das</ManagerName>
+			<PO>34152624</PO>
+			<ProjectCode>71101081</ProjectCode>
+			<TaskCode>1.04</TaskCode>
+			<CostCenter>80405</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>27548</IssueIds>
+		</RedMine>
+	</TeamMember>
+		<TeamMember>
+		<Project>
+			<ProjectName>EA</ProjectName>
+			<TeamMemberName>Kameswararao Akella</TeamMemberName>
+			<ManagerName>Madhumita Das/Robin Porter</ManagerName>
+			<PO>34152624</PO>
+			<ProjectCode>71101081</ProjectCode>
+			<TaskCode>1.04</TaskCode>
+			<CostCenter>80405</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>27355</IssueIds>
+		</RedMine>
+	</TeamMember>
 	<TeamMember>
 		<Project>
-			<ProjectName>GTO - Sitescope Replacement</ProjectName>
+			<ProjectName>UFM</ProjectName>
+			<TeamMemberName>Sreenivasa Anagani</TeamMemberName>
+			<ManagerName>Carl Sjoquist</ManagerName>
+			<PO>34157117</PO>
+			<ProjectCode>6950261</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79951</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>35602,35597,35142,34500,34035,33788,33787,33460,33439</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>UFM</ProjectName>
+			<TeamMemberName>Mohan Chikkegowda</TeamMemberName>
+			<ManagerName>Carl Sjoquist</ManagerName>
+			<PO>34157117</PO>
+			<ProjectCode>6950261</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79951</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>36077,35694,36352,34439,34036,33789,33462,33449,33444</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>UFM</ProjectName>
+			<TeamMemberName>Prasanna Balakrishnan</TeamMemberName>
+			<ManagerName>Samar Kanguri</ManagerName>
+			<PO>34157117</PO>
+			<ProjectCode>6950261</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79951</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33459,35683,35689,35690</IssueIds>
+		</RedMine>
+	</TeamMember>
+
+	
+	<TeamMember>
+		<Project>
+			<ProjectName>GTO</ProjectName>
 			<TeamMemberName>DeviKiran Setty</TeamMemberName>
 			<ManagerName>Joe Liner</ManagerName>
 			<PO>34155132</PO>
@@ -12,14 +84,14 @@
 			<CostCenter>79964</CostCenter>
 		</Project>
 		<RedMine>
-			<IssueIds>30601,35404</IssueIds>
+			<IssueIds>30601</IssueIds>
 		</RedMine>
 	</TeamMember>
 	<TeamMember>
 		<Project>
-			<ProjectName>GTO - Sitescope Replacement</ProjectName>
-			<TeamMemberName>Chandan</TeamMemberName>
-			<ManagerName>Joe Liner</ManagerName>
+			<ProjectName>GTO </ProjectName>
+			<TeamMemberName>Chandan Javaregowda</TeamMemberName>
+			<ManagerName>Joe Liner / Anthony Garone</ManagerName>
 			<PO>34155132</PO>
 			<ProjectCode>71105047</ProjectCode>
 			<TaskCode>1.24</TaskCode>
@@ -28,5 +100,458 @@
 		<RedMine>
 			<IssueIds>30602</IssueIds>
 		</RedMine>
-	</TeamMember>	
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>GTO</ProjectName>
+			<TeamMemberName>Chandra Prakash</TeamMemberName>
+			<ManagerName>Joe Liner / Rick Malliton</ManagerName>
+			<PO>34155132</PO>
+			<ProjectCode>71105047</ProjectCode>
+			<TaskCode>1.24</TaskCode>
+			<CostCenter>79964</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>30603</IssueIds>
+		</RedMine>
+	</TeamMember>
+
+	
+	<TeamMember>
+		<Project>
+			<ProjectName>Pegasus</ProjectName>
+			<TeamMemberName>Aravind Dhakshinamoorthy</TeamMemberName>
+			<ManagerName>Prasad Rachakonda</ManagerName>
+			<PO>34154680</PO>
+			<ProjectCode>5404050 (40%) 6950245 (10%) 6950240 (10%) 6950263 (40%)</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79931</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>22218</IssueIds>
+		</RedMine>
+	</TeamMember>
+	
+	<TeamMember>
+		<Project>
+			<ProjectName>eCourses</ProjectName>
+			<TeamMemberName>Rahul Khot</TeamMemberName>
+			<ManagerName>Nyo Maw</ManagerName>
+			<PO>34153000</PO>
+			<ProjectCode>6950322</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79931</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>26066</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>eCourses</ProjectName>
+			<TeamMemberName>Vijay Mathew</TeamMemberName>
+			<ManagerName>Nyo Maw</ManagerName>
+			<PO>34153000</PO>
+			<ProjectCode>6950322</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79931</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33344</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>eCourses</ProjectName>
+			<TeamMemberName>Manoranjan Singh</TeamMemberName>
+			<ManagerName>Nyo Maw</ManagerName>
+			<PO>34154693</PO>
+			<ProjectCode>6950322</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79931</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33666,26067,35685</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>eCourses</ProjectName>
+			<TeamMemberName>Ravi Vemuri</TeamMemberName>
+			<ManagerName>Nyo Maw</ManagerName>
+			<PO>34153000</PO>
+			<ProjectCode>6950322</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79931</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>26065,35686</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>eCourses</ProjectName>
+			<TeamMemberName>RaviShankar Bonu</TeamMemberName>
+			<ManagerName>Nyo Maw</ManagerName>
+			<PO>34154693</PO>
+			<ProjectCode>6950322</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79931</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33430,33409,26068</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>eCourses</ProjectName>
+			<TeamMemberName>Irshadahmed Jakati</TeamMemberName>
+			<ManagerName>Nyo Maw</ManagerName>
+			<PO>34157111</PO>
+			<ProjectCode>6950322</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79931</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33413,34566,34569,35389,33651,33650</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>PDN</ProjectName>
+			<TeamMemberName>Saju Mathew</TeamMemberName>
+			<ManagerName>Donna Barbieri</ManagerName>
+			<PO>34157151</PO>
+			<ProjectCode>71104017</ProjectCode>
+			<TaskCode>3.06</TaskCode>
+			<CostCenter>79957</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>35453</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>Media Player</ProjectName>
+			<TeamMemberName>Sajan Thomas</TeamMemberName>
+			<ManagerName>Carl Sjoquist</ManagerName>
+			<PO>34151829</PO>
+			<ProjectCode>6950254  (10%)6950265 (90%)</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79954</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>25750</IssueIds>
+		</RedMine>
+	</TeamMember>
+	
+	<TeamMember>
+		<Project>
+			<ProjectName>Media Player</ProjectName>
+			<TeamMemberName>Pallavi Mishra</TeamMemberName>
+			<ManagerName>Samar Kanguri</ManagerName>
+			<PO>34157119</PO>
+			<ProjectCode>6950265</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79951</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33453</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>Media Player</ProjectName>
+			<TeamMemberName>Karthikeyan Jeyaprakash</TeamMemberName>
+			<ManagerName>Carl Sjoquist</ManagerName>
+			<PO>34157119</PO>
+			<ProjectCode>6950265</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79951</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>36035</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>Dash</ProjectName>
+			<TeamMemberName>Pradeep JK</TeamMemberName>
+			<ManagerName>Jamey Frank/Samar Kanguri</ManagerName>
+			<PO>34151825</PO>
+			<ProjectCode>5404029</ProjectCode>
+			<TaskCode>12.09</TaskCode>
+			<CostCenter>79960</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>25677,25676,35687,35092,35091,27991,27259,25984,24167,24013,24010</IssueIds>
+		</RedMine>
+	</TeamMember>
+		<TeamMember>
+		<Project>
+			<ProjectName>eCourses</ProjectName>
+			<TeamMemberName>Jaya Gupta</TeamMemberName>
+			<ManagerName>Samar Kanguri</ManagerName>
+			<PO>34157836</PO>
+			<ProjectCode>6950322</ProjectCode>
+			<TaskCode>1.04</TaskCode>
+			<CostCenter>79946</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>35655,35653,35651,33576,33575</IssueIds>
+		</RedMine>
+	</TeamMember>
+		<TeamMember>
+		<Project>
+			<ProjectName>eCourses</ProjectName>
+			<TeamMemberName>HariPrasad T</TeamMemberName>
+			<ManagerName>Samar Kanguri</ManagerName>
+			<PO>34157836</PO>
+			<ProjectCode>6950322</ProjectCode>
+			<TaskCode>1.04</TaskCode>
+			<CostCenter>79946</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>34447,33407</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>Dash</ProjectName>
+			<TeamMemberName>Manjunath GP</TeamMemberName>
+			<ManagerName>Jamey Frank/Samar Kanguri</ManagerName>
+			<PO>34153230</PO>
+			<ProjectCode>5404029</ProjectCode>
+			<TaskCode>12.09</TaskCode>
+			<CostCenter>79960</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33603,34513</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>Mastering</ProjectName>
+			<TeamMemberName>Manikandaraja S</TeamMemberName>
+			<ManagerName>Kathryn Reczko</ManagerName>
+			<PO>34151828</PO>
+			<ProjectCode>6950284</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79937</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>30601,35404</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>TPI</ProjectName>
+			<TeamMemberName>Kumar Annamalai</TeamMemberName>
+			<ManagerName>John Perakis</ManagerName>
+			<PO>34151055</PO>
+			<ProjectCode>6950264</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79959</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>35589,31395,31394,26745,23137,33730</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>BlueSky</ProjectName>
+			<TeamMemberName>Francis Christopher</TeamMemberName>
+			<ManagerName>Samar Kanguri</ManagerName>
+			<PO>34157112</PO>
+			<ProjectCode>6950319</ProjectCode>
+			<TaskCode>1.04</TaskCode>
+			<CostCenter>79931</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>34610,33639,33448,29535,26333</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>BlueSky</ProjectName>
+			<TeamMemberName>Vaibhav Gulati</TeamMemberName>
+			<ManagerName>Samar Kanguri</ManagerName>
+			<PO>34157112</PO>
+			<ProjectCode>6950319</ProjectCode>
+			<TaskCode>1.04</TaskCode>
+			<CostCenter>79931</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>34911</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>Icodeon </ProjectName>
+			<TeamMemberName>Naveen</TeamMemberName>
+			<ManagerName>Samar Kanguri</ManagerName>
+			<PO>34159564 </PO>
+			<ProjectCode>71101096</ProjectCode>
+			<TaskCode>2.03</TaskCode>
+			<CostCenter>79965</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33417</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>Icodeon </ProjectName>
+			<TeamMemberName>Shashank</TeamMemberName>
+			<ManagerName>Samar Kanguri</ManagerName>
+			<PO>34159564 </PO>
+			<ProjectCode>71101096</ProjectCode>
+			<TaskCode>2.03</TaskCode>
+			<CostCenter>79965</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33455</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>Icodeon </ProjectName>
+			<TeamMemberName>Archita Dash</TeamMemberName>
+			<ManagerName>Cale Dancho</ManagerName>
+			<PO>34159564 </PO>
+			<ProjectCode>71101096</ProjectCode>
+			<TaskCode>2.03</TaskCode>
+			<CostCenter>79958</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33410</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>Icodeon </ProjectName>
+			<TeamMemberName>Gourav</TeamMemberName>
+			<ManagerName>Cale Dancho</ManagerName>
+			<PO>34159564 </PO>
+			<ProjectCode>71101096</ProjectCode>
+			<TaskCode>2.03</TaskCode>
+			<CostCenter>79958</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33425</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>Icodeon </ProjectName>
+			<TeamMemberName>ArunKumar</TeamMemberName>
+			<ManagerName>Cale Dancho</ManagerName>
+			<PO>34159564 </PO>
+			<ProjectCode>71101096</ProjectCode>
+			<TaskCode>2.03</TaskCode>
+			<CostCenter>79958</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33422</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>Icodeon </ProjectName>
+			<TeamMemberName>Anantha</TeamMemberName>
+			<ManagerName>Cale Dancho</ManagerName>
+			<PO>34159564 </PO>
+			<ProjectCode>71101096</ProjectCode>
+			<TaskCode>2.03</TaskCode>
+			<CostCenter>79958</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33423</IssueIds>
+		</RedMine>
+		<TeamMember>
+		<Project>
+			<ProjectName>Mastering QA</ProjectName>
+			<TeamMemberName>Parul Agarwal</TeamMemberName>
+			<ManagerName>Steve Langley</ManagerName>
+			<PO>34157163</PO>
+			<ProjectCode>6950284</ProjectCode>
+			<TaskCode>1.04</TaskCode>
+			<CostCenter>79937</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>35730</IssueIds>
+		</RedMine>
+	</TeamMember>
+	</TeamMember>
+		<TeamMember>
+		<Project>
+			<ProjectName>Mastering QA</ProjectName>
+			<TeamMemberName>Rohit Jain</TeamMemberName>
+			<ManagerName>Steve Langley</ManagerName>
+			<PO>34157163</PO>
+			<ProjectCode>6950284</ProjectCode>
+			<TaskCode>1.04</TaskCode>
+			<CostCenter>79937</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>35704</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>Mastering QA</ProjectName>
+			<TeamMemberName>Sireesha Kosaraju</TeamMemberName>
+			<ManagerName>Steve Langley</ManagerName>
+			<PO>34157163</PO>
+			<ProjectCode>6950284</ProjectCode>
+			<TaskCode>1.04</TaskCode>
+			<CostCenter>79937</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>35709</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>Mastering QA</ProjectName>
+			<TeamMemberName>Chethan Kumar</TeamMemberName>
+			<ManagerName>Steve Langley</ManagerName>
+			<PO>34157163</PO>
+			<ProjectCode>6950284</ProjectCode>
+			<TaskCode>1.04</TaskCode>
+			<CostCenter>79937</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>35716</IssueIds>
+		</RedMine>
+	</TeamMember>
+	
+	<TeamMember>
+		<Project>
+			<ProjectName>Mastering QA</ProjectName>
+			<TeamMemberName>Megha TJ</TeamMemberName>
+			<ManagerName>Steve Langley</ManagerName>
+			<PO>34157163</PO>
+			<ProjectCode>6950284</ProjectCode>
+			<TaskCode>1.04</TaskCode>
+			<CostCenter>79937</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>35710,35711</IssueIds>
+		</RedMine>
+	</TeamMember>
+	<TeamMember>
+		<Project>
+			<ProjectName>eCourses</ProjectName>
+			<TeamMemberName>Sanil S Kumar</TeamMemberName>
+			<ManagerName>Nyo Maw</ManagerName>
+			<PO>34153000</PO>
+			<ProjectCode>6950322</ProjectCode>
+			<TaskCode>1.03</TaskCode>
+			<CostCenter>79931</CostCenter>
+		</Project>
+		<RedMine>
+			<IssueIds>33607,27989,334433,34432</IssueIds>
+		</RedMine>
+	</TeamMember>
 </TeamMembers>

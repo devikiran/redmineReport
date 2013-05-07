@@ -97,22 +97,21 @@ public class XmlParser extends DefaultHandler {
 			teamMember.setCostCenter(temp);
 		} else if (qName.equalsIgnoreCase("IssueIds")) {
 			teamMember.setIssueIds(temp);
-			System.out.println("in the end"+temp);
+			//System.out.println("in the end"+temp);
 			//
 		}
 
 	}
 
 	public List<TeamMember> readList() {
-		System.out.println("No of  the accounts in bank '" + tmList.size()
-				+ "'.");
+		//System.out.println("No of  the accounts in bank '" + tmList.size()	+ "'.");
 		/*Iterator<TeamMember> it = tmList.iterator();
 		while (it.hasNext()) {
 			System.out.println("in the loop "+it.next().getTeamMember());
 		}*/
 		for(TeamMember temp:tmList)
 		{
-			System.out.println(temp.getTeamMember()+"in the read list r");
+			//System.out.println(temp.getTeamMember()+"in the read list r");
 		}
 		return tmList;
 	}
